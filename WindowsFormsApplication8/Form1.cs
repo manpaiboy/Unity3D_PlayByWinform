@@ -21,6 +21,7 @@ namespace WindowsFormsApplication8
         {
             axUnityWebPlayer1.src = @"D:\我的文档\U3D\Project\demo13d\11101\1111\1\1 - 副本.RAR";
             timer1.Start();
+            //服务器更新了一个文件2016年7月8日14:56:11
         }
 
         private void timer1_Tick(object sender, EventArgs e)
