@@ -19,6 +19,7 @@ namespace WindowsFormsApplication8
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Text = "你好 github！";
             axUnityWebPlayer1.src = @"D:\我的文档\U3D\Project\demo13d\11101\1111\1\1 - 副本.RAR";
             timer1.Start();
             //服务器更新了一个文件2016年7月8日14:56:11
